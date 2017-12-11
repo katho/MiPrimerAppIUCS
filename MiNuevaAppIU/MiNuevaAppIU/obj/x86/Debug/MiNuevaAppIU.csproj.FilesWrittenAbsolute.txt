@@ -1,0 +1,6 @@
+/home/catarino/MonoProjects/MiPrimerCSharp/MiNuevaAppIU/MiNuevaAppIU/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/catarino/MonoProjects/MiPrimerCSharp/MiNuevaAppIU/MiNuevaAppIU/obj/x86/Debug/MiNuevaAppIU.gtk-gui.gui.stetic
+/home/catarino/MonoProjects/MiPrimerCSharp/MiNuevaAppIU/MiNuevaAppIU/bin/Debug/MiNuevaAppIU.exe.mdb
+/home/catarino/MonoProjects/MiPrimerCSharp/MiNuevaAppIU/MiNuevaAppIU/bin/Debug/MiNuevaAppIU.exe
+/home/catarino/MonoProjects/MiPrimerCSharp/MiNuevaAppIU/MiNuevaAppIU/obj/x86/Debug/MiNuevaAppIU.exe
+/home/catarino/MonoProjects/MiPrimerCSharp/MiNuevaAppIU/MiNuevaAppIU/obj/x86/Debug/MiNuevaAppIU.exe.mdb
